@@ -47,7 +47,7 @@ Use `scripts/evaluate_coco_fold0.sh` and `scripts/evaluate_voc_fold0.sh` to perf
 + Execute `mkdir initmodel` at the root directory.
 + Download the ImageNet pretrained [**backbones**](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155122171_link_cuhk_edu_hk/EQEY0JxITwVHisdVzusEqNUBNsf1CT8MsALdahUhaHrhlw?e=4%3a2o3XTL&at=9) and put them into the `initmodel` directory.
 + Please download the pretrained models.
-+ We provide **16 pre-trained**  [**models**](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155122171_link_cuhk_edu_hk/Ej4c5aUV1RxDpXuSjK-9BZYBKF23mgq2zR8bNYWTkIJtkA?e=Rhb1xi): 
++ We will provide **pre-trained models**: 
 8 for 1/5 shot results on PASCAL-5i and 8 for COCO.
 + Update the config files by speficifying the target **split**, **weights** and **shot** for loading different checkpoints.
 
