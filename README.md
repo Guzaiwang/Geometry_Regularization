@@ -1,5 +1,5 @@
 # When low-vision task meets dense prediction tasks with less data: an auxiliary self-trained geometry regularization
-This repository is for the paper "When low-vision task meets dense prediction tasks with less data: an auxiliary self-trained geometry regularization", accepted by TMLR
+This repository is for the paper "When low-vision task meets dense prediction tasks with less data: an auxiliary self-trained geometry regularization".
 
 <div align="center">
   <img src="figures/network.png" width="600" />
